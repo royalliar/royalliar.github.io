@@ -563,3 +563,17 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Custom CSS */
+.rl-logo {
+  width: 120px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+@media (min-width: 30.1em) {
+  .rl-logo {
+    width: 140px;
+  }
+}
