@@ -23,7 +23,7 @@ author:
   email:             rl@marymountrome.com
 
 # Automatic Task
-exclude: [Rakefile, .travis.yml, vendor]
+exclude: [build.sh, .travis.yml, vendor]
 
 # Plugins
 gems:
