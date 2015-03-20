@@ -1,0 +1,30 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               The Royal Liar
+tagline:             'MMI Highschool Newspaper'
+description:         '<img class="rl-logo" src="/images/royalliar.svg" alt="The Royal Liar">'
+url:                 http://theroyalliar.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              The Liars
+  url:               http://theroyalliar.github.io
+  email:             rl@marymountrome.com
+
+# Automatic Task
+exclude: [Rakefile, .travis.yml]
+
+# Plugins
+gems:
+  - jekyll-archives
