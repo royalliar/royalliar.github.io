@@ -3,7 +3,6 @@ require 'rubygems'
 desc 'Generate and publish site using Travis CI'
 task :travis do
   repo = %x(git config remote.origin.url).gsub(/^git:/, 'https:')
-  source_branch = 'jekyll'
   deploy_branch = 'master'
 
   system "git config user.name '#{ENV['GIT_NAME']}'"
