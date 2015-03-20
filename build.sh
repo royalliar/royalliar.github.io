@@ -14,7 +14,3 @@ git clone https://${GH_TOKEN}@github.com/theroyalliar/theroyalliar.github.io.git
 
 # Copy generated HTML site to 'master' branch
 cp -R _site/* ../theroyalliar.github.io.master
-
-# Create '.nojekyll' file
-cd ../theroyalliar.github.io.master
-touch .nojekyll
