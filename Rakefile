@@ -14,7 +14,7 @@ task :travis do
     f.write("https://#{ENV['GH_TOKEN']}:@github.com")
   end
 
-  sh 'jekyll build'
+  sh 'bundle exec jekyll build'
   system 'git commit -am "Generate Website"'
   sh "git push '_site' #{deploy_branch}"
 
