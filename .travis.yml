@@ -1,9 +1,12 @@
 language: ruby
 script: "./build.sh"
 before_script:
- - chmod +x build.sh
+- chmod +x build.sh
 branches:
   only:
-    - jekyll
+  - jekyll
 rvm:
-  - 2.2.0
+- 2.2.0
+env:
+  global:
+    secure: ZWwHDEA3qAS5YKWFpUmkQ4DfC5kzPxx3oOFSsWMYR6aXeSf6rV4T83xFh5j1tZL5VNC1ArebCtBeOail57iwKofIRwt/Rt+L3rY6OQafDSE5q1iZH6uOHZFcdX87apsFyR3Fg9TeXfP4+zeCid4BOEP1PbTxL07U8dJ7A/Ka8Pk=
