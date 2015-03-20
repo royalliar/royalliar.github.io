@@ -23,6 +23,7 @@ author:
   email:             rl@marymountrome.com
 
 # Automatic Task
+include: [.nojekyll]
 exclude: [Rakefile, .travis.yml]
 
 # Plugins
