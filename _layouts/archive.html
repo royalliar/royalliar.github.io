@@ -71,29 +71,29 @@
         {% endcase %}
 
         <script type="text/javascript">
-
-          {% assign prevexists = 1 %}
-          {% assign nextexists = 1 %}
-
           var requestOld = new XMLHttpRequest();
-          requestOld.open('GET', '{{ site.url }}{{ site.baseurl }}{{ prev }}', true);
+          requestOld.open('GET', '{{ site.baseurl }}{{ prev }}', true);
           requestOld.onreadystatechange = function(){
             if (requestOld.readyState === 4){
               if (requestOld.status === 404) {
-                if (requestNew.status === 404) {
-                  {% assign prevexists = 0 %}
-                }
+                var prevh = document.getElementById("prevh");
+                var prevf = document.getElementById("prevf");
+                prevh.className = prevh.className + " disabled";
+                prevf.className = prevf.className + " disabled";
               }
             }
         };
         requestOld.send();
 
         var requestNew = new XMLHttpRequest();
-        requestNew.open('GET', '{{ site.url }}{{ site.baseurl }}{{ next }}', true);
+        requestNew.open('GET', '{{ site.baseurl }}{{ next }}', true);
           requestNew.onreadystatechange = function(){
             if (requestNew.readyState === 4){
               if (requestNew.status === 404) {
-                {% assign nextexists = 0 %}
+                var nexth = document.getElementById("nexth");
+                var nextf = document.getElementById("nextf");
+                nexth.className = nexth.className + " disabled";
+                nextf.className = nextf.className + " disabled";
               }
             }
           };
@@ -101,17 +101,9 @@
         </script>
 
         <h1 class="text-center">
-          {% if prevexists == 0 %}
-            <span class="disabled">&#8678;</span>
-          {% else %}
-            <a href="{{ site.baseurl }}{{ prev }}">&#8678;</a>
-          {% endif %}
+            <a id="prevh" href="{{ site.baseurl }}{{ prev }}">&#8678;</a>
           {{ page.date | date: "%B Issue, %Y" }}
-          {% if prevexists == 0 %}
-            <span class="disabled">&#8680;</a>
-          {% else %}
-            <a href="{{ site.baseurl }}{{ next }}">&#8680;</a>
-          {% endif %}
+            <a id="nexth" href="{{ site.baseurl }}{{ next }}">&#8680;</a>
           </h1>
 
         <div class="posts">
@@ -133,17 +125,8 @@
         </div>
 
         <div class="pagination">
-          {% if prevexists == 0 %}
-            <span class="pagination-item older">Previous Issue</span>
-          {% else %}
-            <a class="pagination-item older" href="{{ site.baseurl }}{{ prev }}">Previous Issue</a>
-          {% endif %}
-
-          {% if nextexists == 0 %}
-            <span class="pagination-item newer">Next Issue</span>
-          {% else %}
-            <a class="pagination-item newer" href="{{ site.baseurl }}{{ next }}">Next Issue</a>
-          {% endif %}
+            <a id="prevf" class="pagination-item older" href="{{ site.baseurl }}{{ prev }}">Previous Issue</a>
+            <a id="nextf" class="pagination-item newer" href="{{ site.baseurl }}{{ next }}">Next Issue</a>
         </div>
       </div>
     </div>

@@ -105,29 +105,29 @@
           
 
         <script type="text/javascript">
-
-          
-          
-
           var requestOld = new XMLHttpRequest();
-          requestOld.open('GET', 'http://theroyalliar.github.io/2015/02', true);
+          requestOld.open('GET', '/2015/02', true);
           requestOld.onreadystatechange = function(){
             if (requestOld.readyState === 4){
               if (requestOld.status === 404) {
-                if (requestNew.status === 404) {
-                  
-                }
+                var prevh = document.getElementById("prevh");
+                var prevf = document.getElementById("prevf");
+                prevh.className = prevh.className + " disabled";
+                prevf.className = prevf.className + " disabled";
               }
             }
         };
         requestOld.send();
 
         var requestNew = new XMLHttpRequest();
-        requestNew.open('GET', 'http://theroyalliar.github.io/2015/04', true);
+        requestNew.open('GET', '/2015/04', true);
           requestNew.onreadystatechange = function(){
             if (requestNew.readyState === 4){
               if (requestNew.status === 404) {
-                
+                var nexth = document.getElementById("nexth");
+                var nextf = document.getElementById("nextf");
+                nexth.className = nexth.className + " disabled";
+                nextf.className = nextf.className + " disabled";
               }
             }
           };
@@ -135,13 +135,9 @@
         </script>
 
         <h1 class="text-center">
-          
-            <span class="disabled">&#8678;</span>
-          
+            <a id="prevh" href="/2015/02">&#8678;</a>
           March Issue, 2015
-          
-            <span class="disabled">&#8680;</a>
-          
+            <a id="nexth" href="/2015/04">&#8680;</a>
           </h1>
 
         <div class="posts">
@@ -165,13 +161,8 @@
         </div>
 
         <div class="pagination">
-          
-            <span class="pagination-item older">Previous Issue</span>
-          
-
-          
-            <span class="pagination-item newer">Next Issue</span>
-          
+            <a id="prevf" class="pagination-item older" href="/2015/02">Previous Issue</a>
+            <a id="nextf" class="pagination-item newer" href="/2015/04">Next Issue</a>
         </div>
       </div>
     </div>
