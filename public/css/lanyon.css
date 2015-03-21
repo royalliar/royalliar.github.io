@@ -314,10 +314,14 @@ a.sidebar-nav-item:focus {
 }
 
 /* Meta data line below post title */
-.post-date {
+.post-meta {
   display: block;
-  margin-top: -.5rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
   color: #9a9a9a;
 }
 
