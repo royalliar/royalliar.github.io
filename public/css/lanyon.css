@@ -587,5 +587,7 @@ a.pagination-item:hover {
 }
 
 .disabled {
-  color: #ccc;
+  pointer-events: none;
+  cursor: default;
+  color: #ccc !important;
 }
