@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Wnable error reporting to the console
+# Enable error reporting to the console
 set -e
 
 # Build site with jekyll, by default to '_site' folder

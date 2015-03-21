@@ -5,7 +5,7 @@ highlighter:         pygments
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /:categories/:year/:month/:title
 relative_permalinks: true
 
 # Setup
@@ -23,7 +23,25 @@ author:
   email:             rl@marymountrome.com
 
 # Automatic Task
-exclude: [build.sh, .travis.yml, vendor]
+exclude:
+  - build.sh
+  - .travis.yml
+  - vendor
+
+# Monthly Archives
+jekyll-archives:
+  enabled:
+    - month
+  layouts:
+    month: archive
+  permalinks:
+    month: '/:year/:month/'
+
+# Category Archives
+category_archive:
+  layout: category
+  slugify: true
+  path: category
 
 # Plugins
 gems:
