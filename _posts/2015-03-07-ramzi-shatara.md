@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Ramzi Shatara'
+post_author: Halla Mathiesen
+category: 'Student Interview'
+tags:
+  - student-interview
+---
+
+**Name:** Ramzi Shatara  
+**Nickname:** Chabita  
+**Grade:** 12  
+**Nationality:** Canadian  
+**Years at MMI:** 7  
+**Life motto:** “I don’t hate you ‘cause you’re fat. You’re fat ‘cause I hate you!”
+
+1. *Celebrity crush?* Kerry Washington. Anyone who watches Scandal will understand.
+2. *Most awkward thing that ever happened to you?* I’m more awkward than Jennifer Lawrence at the Oscars.
+3. *If your life were a song, what would the title be?* “Love It”.
+4. *Something you couldn’t live without?* My closet.
+5. *Someone you couldn’t live without?* P.
+6. *Best thing that happened in 2014?* Getting accepted into Tisch.
+7. *If you could have one superpower what would it be?* The ability to eat chocolate with no weight gain.  
+8. *Favorite subject?* Drama.
+9. *The perfect vacation?* A vacation is perfect when you start forgetting what day it is.
+10. *Cats or dogs?* Dogs.
+11. *Favorite artist?* Beyoncé, I love R&B.
+12. *Best thing that happened this month?* Performing West Side Story.
+13. *Best thing that happened ever?* The runaway llamas
+14. *Facebook or Instagram?* The gram. All the way.
+15. *Favorite holiday?* New Years Eve.
+16. *Biggest surprise you’ve ever had?* Finding out that Morocco was not in South America…geography is not my strong suit.
+17. *If you could pick one historical figure to have coffee with, whom would you pick?* Does Liza Minnelli count as a historical figure?
+18. *Best gift you ever received?* Good DNA (shout out to Naj!).
+19. *Favorite country you visited?* Singapore.
+20. *Number one goal in life?* To inspire a celeb’s break-up album.
+21. *Movie you laughed the hardest through?* Bridesmaids killed me.  
+22. *Best thing about living in Rome?* Ginger! (Not the spice, the restaurant/café).
+23. *If you could switch places with someone for a day, who would it be?* Lena Dunham!
+24. *Dream job?* To run my own show on HBO.
+25. *Who should everyone be following right now?* @chrisellelim has the best Instagram!

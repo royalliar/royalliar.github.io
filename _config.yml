@@ -5,7 +5,7 @@ highlighter:         pygments
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:categories/:year/:month/:title
+permalink:           /:year/:month/:title
 relative_permalinks: true
 
 # Setup
@@ -15,6 +15,7 @@ description:         '<img class="rl-logo" src="/images/royalliar.svg" alt="The 
 url:                 http://theroyalliar.github.io
 baseurl:             /
 paginate:            5
+lsi:                 true
 
 # About/contact
 author:
@@ -41,7 +42,7 @@ jekyll-archives:
 category_archive:
   layout: category
   slugify: true
-  path: category
+  path: 'category'
 
 # Plugins
 gems:

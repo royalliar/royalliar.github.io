@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Alexis Tspiras'
+post_author: Lorenzo Bongini
+category: Politics
+tags:
+  - politics
+---
+
+There is so much wrong with Alexis Tspiras and Syriza that I’m afraid that this article won’t be able to make you, the reader, understand why Tspiras and his radical left-wing party, Syriza, is the straw that will break Greece’s back and consequentially worsen the European Union (EU) in its entirety. Alas I’ll do my best to present an argument which will dismantle an already broken political party and hopefully knock some sense in those who still hold on to the idea that any form of political radicalism, whether it’s right-wing or left-wing, will “save” the people from the austerity policies that are slowly suffocating the EU.
+
+Over the past decade Greece has seen so many economic ordeals that its debt crisis alone encapsulates how the EU’s, or rather, how Angela Merkel’s austerity policies have sent the whole of Europe into an economic recession that is so counter-productive that it’s almost as if every EU nation had lost a major war which reduced its economy to something similar to post WWI Germany. Seriously. Greece has suffered particularly from this global economic crisis, to the point which since the early 90’s it has been losing money, its people have become poorer and it has been home to ridiculous levels of corruption and tax evasion. Tspiras’ political success is a product of this colossal economic failure because, like most current politicians love to do,  he has, since the start of his political campaign, been pointing his finger at Germany, the EU, Austerity and basically anything that participated the economic, diplomatic and social collapse of Greece.
+
+So, why is Tspiras so detrimental to Greece? First off, he is inconsistent and arguably hypocritical as shown from the fact that the first action he and Syriza undertook after winning the general elections was to form a coalition for parliamentary majority with A.N.E.L, the Greek right-wing independent party, which isn’t exactly the ideal candidate for a coalition with a RADICAL LEFT-WING PARTY. Secondly, he is already panicking and making stupid decisions. Tspiras has been in power for little more that two months and in this little time he has already made the very smart choice of demanding that Germany pay around €11 billion of reparations for the occupation of Greece by hand of the Nazi’s in WWII. Germany had the decency to limit their response to this ridiculous proposal to a mere “nein”, but if Tspiras were looking for a way to butcher Greece’s already weak relations with Europe and to make a fool out of himself, he found what’s inarguably the best way to do so. Last but not least he has promised so many overly ambitious goals to the Greek people that it’s gone to the point in which it’s become all very comical. He wants to leave the European Union, leave the Euro, stop austerity, fix Greece’s economy, renegotiate the €240bn + Greek debt to Europe, save the world from an alien invasion, colonize the moon and become God. Okay, he did not quite say the first three, but you get the idea.
+
+Tspiras isn’t the PM Greece needs nor deserves. Whether it will all go downhill from here is debatable but out of all the people that the Greek could have elected I’m quite sure he wasn’t the one they should have even considered.
