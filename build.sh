@@ -4,7 +4,7 @@
 set -e
 
 # Build site with jekyll, by default to '_site' folder
-bundle exec jekyll build --without development
+bundle exec jekyll build
 
 # Cleanup
 rm -rf ../theroyalliar.github.io.master
