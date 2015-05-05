@@ -2,7 +2,7 @@
 layout: post
 title: 'Benches of an Author'
 post_author: Francesco Merola
-category: 'Current Events — Local'
+category: 'Current Events - Local'
 tags:
   - current-events-local
   - literature

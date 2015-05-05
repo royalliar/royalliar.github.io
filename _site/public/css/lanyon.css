@@ -605,7 +605,7 @@ a.pagination-item:hover, a.button:hover {
   height: 250px;
   margin-top: -3rem;
   margin-bottom: -1.5rem;
-  background: url("/public/cover.png");
+  background: url("/images/cover.png");
   background-size: 100% auto;
   background-position: center;
   background-repeat: no-repeat;

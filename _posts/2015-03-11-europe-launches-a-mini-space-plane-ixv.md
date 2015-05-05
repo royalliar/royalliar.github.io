@@ -2,7 +2,7 @@
 layout: post
 title: 'Europe Launches a Mini Space Plane, IXV'
 post_author: Marta Anzillotti
-category: 'Current Events — Global'
+category: 'Current Events - Global'
 tags:
   - current-events-global
   - science

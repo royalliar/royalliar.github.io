@@ -2,7 +2,7 @@
 layout: post
 title: "It's Nuclear Fear Again"
 post_author: Allegra de Lorenzo
-category: 'Current Events — Global'
+category: 'Current Events - Global'
 tags:
   - current-events-global
   - energy

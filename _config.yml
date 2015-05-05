@@ -14,7 +14,7 @@ tagline:             'MMI Highschool Newspaper'
 description:         '<img class="rl-logo" src="/images/royalliar.svg" alt="The Royal Liar">'
 url:                 http://theroyalliar.github.io
 baseurl:             /
-paginate:            5
+paginate:            12
 lsi:                 true
 
 # About/contact

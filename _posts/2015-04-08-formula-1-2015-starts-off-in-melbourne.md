@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'Formula 1 2015 Starts Off in Melbourne'
+post_author: Marta Anzilloti
+category: Current Events - Global
+tags:
+  - current-events-global
+  - sports
+---
+
+After Lewis Hamilton’s win in Abu Dhabi four months ago which granted him his second drivers’ championship, Formula 1 fans were anxious to see the changes to teams and drivers as well as the rules, but most of all they were ready for the start of the new season. There were a couple of changes to the rules this year, primarily the introduction of the virtual safety car.  After the Japanese Grand Prix in October 2014 where Jules Bianchi had an almost fatal accident, from which he is still recovering from today, the Fédération Internationale de l’Automobile (FIA) have introduce the virtual safety car; which will mean that drivers will have to slow down in areas where there has been a crash. Other changes to rules include the loss of double points during the last race. The drivers are now limited to four engines for the whole season and radio communication with the boxes will be restricted.
+
+The biggest change, though, has been in the makeup of the teams. The title favorites are both of Mercedes’ star drivers, Lewis Hamilton and Nico Rosberg. Then there will probably be an interesting battle for the third place between the two Williams (Valtteri Bottas and Felipe Massa) and Ferrari (Sebastian Vettel and Kimi Räikkönen) drivers. Now that it seems that Ferrari is becoming more of a competitor it is clear that Fernando Alonso’s decision to leave the team for McLaren was misguided. Like Dani Pedrosa, who although not a F1 driver but a motorcycle racer, has the same misfortune as Alonso because has won three third places and three second places in Moto GP but never first. Now that Alonso has left Ferrari for McLaren who he thought had a more competitive car, Ferrari is fighting for the third place while the only McLaren that finished came in last. But the most surprising thing in the 2015 line-up has to be the 17 year-old rookie Max Verstappen who races for the Toro Rosso team, the sister team of Red Bull.
+
+As for the first race of the season, it can be described as an overall fiasco. First of all, there were multiple mechanical problems, resulting in just a 75% of cars turning up on the grid for the first race. Of these 15 cars 4 of them had to drop out meaning that only 55% of the cars actually finished. Clearly this is not the path to attract more viewers to the already declining viewership of the once great sport. As it stands there are basically only two drivers with a true possibility at winning the title, Hamilton and Rosberg from the Mercedes team. Hamilton came in 1<sup>st<sup> and Rosberg 2<sup>nd</sup> at Melbourne. Alonso, who could potentially be a contender for the top, but most likely won’t be able to compete due to a concussion he suffered from in his crash in Barcelona during testing. Hopefully he will recover in time to attend the next race in Malaysia on March 29th so that the season can get a little bit more interesting.

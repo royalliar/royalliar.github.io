@@ -2,7 +2,7 @@
 layout: post
 title: 'Women that Changed the World'
 post_author: Sophie Pasquino
-category: 'Current Events — Global'
+category: 'Current Events - Global'
 tags:
   - current-events-global
 ---

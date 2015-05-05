@@ -6,6 +6,7 @@ category: Science
 tags:
   - science
   - energy
+  - technology
   - future
 ---
 
