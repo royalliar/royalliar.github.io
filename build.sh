@@ -3,11 +3,8 @@
 # Enable error reporting to the console
 set -e
 
-# Install gsl library
-apt-get install libgsl0ldbl
-
 # Build site with jekyll, by default to '_site' folder
-bundle exec jekyll build
+bundle exec jekyll build --without development
 
 # Cleanup
 rm -rf ../theroyalliar.github.io.master
