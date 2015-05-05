@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               The Royal Liar
-tagline:             'MMI Highschool Newspaper'
+tagline:             'MMI High School Newspaper'
 description:         '<img class="rl-logo" src="/images/royalliar.svg" alt="The Royal Liar">'
 url:                 http://theroyalliar.github.io
 baseurl:             /
