@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ms. Ferrarin'
-post_author: Ramzi Shatara
+post_author: Ramzi S.
 category: Teacher's Spotlight
 tags:
   - teachers-spotlight

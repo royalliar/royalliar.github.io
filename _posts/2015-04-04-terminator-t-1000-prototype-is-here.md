@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Terminator T-1000 Prototype is Here'
-post_author: Joseph Yoon
+post_author: Joseph Y.
 category: Science
 tags:
   - science

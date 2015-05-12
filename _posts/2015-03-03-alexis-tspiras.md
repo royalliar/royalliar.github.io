@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alexis Tspiras'
-post_author: Lorenzo Bongini
+post_author: Lorenzo B.
 category: Politics
 tags:
   - politics

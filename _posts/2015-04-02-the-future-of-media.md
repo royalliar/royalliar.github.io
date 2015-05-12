@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Media'
-post_author: Gabriel Negash
+post_author: Gabriel N.
 category: Media
 tags:
   - media

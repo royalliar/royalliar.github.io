@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Afterlife, Frankenstein, and Reanimation'
-post_author: Sophie Pasquino
+post_author: Sophie P.
 category: Science
 tags:
   - science

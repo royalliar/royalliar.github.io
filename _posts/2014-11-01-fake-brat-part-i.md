@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fake Brat: Part I'
-post_author: Gaia Breccia
+post_author: Gaia B.
 category: Story Time
 tags:
   - fake-brat

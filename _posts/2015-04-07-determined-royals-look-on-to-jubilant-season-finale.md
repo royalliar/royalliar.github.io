@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Determined Royals Look on to Jubilant Season Finale'
-post_author: Simone Faggiani
+post_author: Simone F.
 category: Current Events - Local
 tags:
   - current-events-local

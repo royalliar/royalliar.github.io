@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How Kanye West Became a Verb'
-post_author: Ramzi Shatara
+post_author: Ramzi S.
 category: '#POPCULTURE'
 tags:
   - popculture

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'From Bankrupt to Bankable'
-post_author: Maria Tews
+post_author: Maria T.
 category: 'Media'
 tags:
   - media

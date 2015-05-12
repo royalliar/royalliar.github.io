@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hydrogen for the Eco-Friendly Generation'
-post_author: Joseph Yoon
+post_author: Joseph Y.
 category: Science
 tags:
   - science

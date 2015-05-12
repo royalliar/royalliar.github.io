@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Net Neutrality: The Little-Known Protector of Digital Citizens'
-post_author: Gabriel Negash
+post_author: Gabriel N.
 category: Media
 tags:
   - media

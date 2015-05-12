@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Opinions to Die For'
-post_author: Maria Tews
+post_author: Maria T.
 category: Current Events - Global
 tags:
   - current-events-global

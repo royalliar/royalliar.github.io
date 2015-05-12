@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A First Glance at the Extended Essay'
-post_author: Simone Faggiani
+post_author: Simone F.
 category: 'Current Events - Local'
 tags:
   - current-events-local

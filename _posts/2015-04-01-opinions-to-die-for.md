@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Narcissism on Wings'
-post_author: Matteo Rosati
+post_author: Matteo R.
 category: Editor's Column
 tags:
   - editors-column

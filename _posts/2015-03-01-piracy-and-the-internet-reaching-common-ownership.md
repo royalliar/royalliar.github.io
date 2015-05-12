@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piracy and the Internet: Reaching Common Ownership'
-post_author: Matteo Rosati
+post_author: Matteo R.
 category: Editor's Column
 tags:
   - editors-column

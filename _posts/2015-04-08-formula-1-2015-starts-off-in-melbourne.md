@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Formula 1 2015 Starts Off in Melbourne'
-post_author: Marta Anzilloti
+post_author: Marta A.
 category: Current Events - Global
 tags:
   - current-events-global
