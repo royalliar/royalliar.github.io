@@ -9,7 +9,7 @@ tags:
 
 *Ms. Ferrarin has been the drama teacher here at Marymount for the past six years and has directed a total of twelve shows with the Marymount players, the after school drama club.*
 
-Interview conducted and transcribed by Ramzi Shatara.
+Interview conducted and transcribed by Ramzi S.
 
 **R: How do you decide what musical or play you’re going to choose to do?**  
 F: Well, usually we think about the talent that we have. We think about all the people who have done musicals in the high school in the past, and we think about people who might be good, because we have to have an idea that we could possibly cast it [the musical] because it would be no good thinking of a show and then realizing we don’t have this character or that character or any possibility for a character.  So we think about what we have and then we come up with a list of possibilities. But for this show it was a bit different because I was almost, I was bullied into it by, [laughs] by a few little devils.
